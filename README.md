@@ -38,10 +38,9 @@
 ![GithubActions](https://img.shields.io/badge/-GithubActions-000?&logo=GithubActions)
 </div>
 <div align="left">
-<h1> Shellscript for networking </h1>
+<h1 style="color:orange"> Shellscript for networking </h1>
 </div>
 
->[!info] info 
+>[info] info 
 >
 > shellscripting using bash 
-> 
