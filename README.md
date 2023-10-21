@@ -41,6 +41,8 @@
 <h1 style="color:orange "> Shellscript for networking </h1>
 </div>
 
+### Download Assert Lib and support Lib
 >[info] info 
 >
-> shellscripting using bash 
+> git submodule add https://github.com/bats-core/bats-assert.git test/libs/bats-assert
+> git submodule add https://github.com/bats-core/bats-support.git test/libs/bats-support
