@@ -44,5 +44,6 @@
 ### Download Assert Lib and support Lib
 >[info] info 
 >
-> git submodule add https://github.com/bats-core/bats-assert.git test/libs/bats-assert
-> git submodule add https://github.com/bats-core/bats-support.git test/libs/bats-support
+>git submodule add https://github.com/bats-core/bats-assert.git test/libs/bats-assert
+>
+>git submodule add https://github.com/bats-core/bats-support.git test/libs/bats-support
