@@ -45,9 +45,5 @@
 >[info] info 
 >
 >git submodule add https://github.com/bats-core/bats-assert.git test/libs/bats-assert
-<<<<<<< HEAD
-> 
-=======
 >
->>>>>>> 9fb16908039b2373bb1f3ef5e6aa7bf7c11cdfff
 >git submodule add https://github.com/bats-core/bats-support.git test/libs/bats-support
